@@ -660,6 +660,7 @@ const QuickSearch = styled.div`
     margin-block-start: 0px;
     color: #ffffff;
     margin-bottom: 20px;
+    text-align:left;
   }
 
   .desc {
@@ -668,6 +669,7 @@ const QuickSearch = styled.div`
     margin-block-start: 0px;
     color: #aea79c;
     margin-bottom: 20px;
+    text-align:center;
   }
 
   input:first-child {
